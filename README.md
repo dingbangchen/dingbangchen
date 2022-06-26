@@ -10,6 +10,5 @@
   - 📧: fredchen001@outlook.com
   - 📲: (413)-210-3716 
 - ⚡ Fun Hobby: 
-  - I am a star photographer😏
-  - ![](https://github.com/dingbangchen/MyPic/blob/main/HTY01838.JPG)
+  - I am a star photographer😏, Check out my photos here: https://github.com/dingbangchen/MyPic
   - Own a server and running multiple services😆(Mostly Gaming Server)
