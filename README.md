@@ -1,11 +1,10 @@
-### HELLO! I am Dingbang Chen👋
+### Hello! I am Dingbang Chen👋
 
-
-[![GitHub](https://img.shields.io/badge/DingbangChen-Computer%20Engineer-blue)
-
+![github](https://img.shields.io/badge/-Computer%20Engineer-blue)
+![github](https://img.shields.io/badge/Python-Expert-orange)
 
 - 🔭 I’m currently a Network Enginner at CMI
-- 🌱 I’m currently learning Python and working hard on Leetcode 😁
+- 🌱 I’m learning Python and working hard on Leetcode 😁
 - 💬 Ask me about anything relates with Computer or Astronomy 😎
 - 📫 How to reach me: 
   - 📧: fredchen001@outlook.com
