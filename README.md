@@ -11,4 +11,5 @@
   - 📲: (413)-210-3716 
 - ⚡ Fun Hobby: 
   - I am a star photographer
+  - ![](https://github.com/dingbangchen/MyPic/blob/main/star.jpg)
   - I have my own server and running multiple services
