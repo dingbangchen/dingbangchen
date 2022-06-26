@@ -1,16 +1,15 @@
-### Hi there 👋
+### HELLO! I am Dingbang Chen👋
 
-<!--
-**dingbangchen/dingbangchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/DingbangChen-Computer%20Engineer-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently a Network Enginner at CMI
+- 🌱 I’m currently learning Python and working hard on Leetcode 😁
+- 💬 Ask me about anything relates with Computer or Astronomy 😎
+- 📫 How to reach me: 
+  - 📧: fredchen001@outlook.com
+  - 📲: (413)-210-3716 
+- ⚡ Fun Hobby: 
+  - I am a star photographer
+  - I have my own server and running multiple services
